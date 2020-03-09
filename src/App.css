@@ -46,3 +46,8 @@
 .site-layout .site-layout-background {
   background: #fff;
 }
+
+.site-card-wrapper {
+  background: #ececec;
+  padding: 30px;
+}
