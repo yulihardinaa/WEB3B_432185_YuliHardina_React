@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import { Layout, Menu } from 'antd';
 import {
@@ -12,7 +12,7 @@ import {
   UploadOutlined,
   VideoCameraOutlined,
 } from '@ant-design/icons';
-import { Card, Col, Row } from 'antd';
+import { Card, Row } from 'antd';
 
 const { Header, Content, Footer, Sider } = Layout;
 const cardData=[{
