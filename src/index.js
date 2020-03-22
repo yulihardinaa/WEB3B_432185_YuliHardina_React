@@ -5,8 +5,9 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import HelloComponent from './component/HelloComponent';
 import StateFullComponent from './container/StateFullComponent';
+import LandingPage from './app/landing-page';
 
-ReactDOM.render(<HelloComponent/>, document.getElementById('root'));
+ReactDOM.render(<LandingPage/>, document.getElementById('root'));
 //ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change

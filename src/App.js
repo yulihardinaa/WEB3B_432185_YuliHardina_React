@@ -1,6 +1,6 @@
 import React from 'react';
 //import logo from './logo.svg';
-import './App.css';
+import '../src/assets/css/App.css';
 import { Layout, Menu } from 'antd';
 import {
   AppstoreOutlined,
