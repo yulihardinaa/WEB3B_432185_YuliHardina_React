@@ -1,14 +1,15 @@
 .menuBar {
-    color: black !important;
-    background: #ffffff;
+    color: black;
     padding: 0 20px;
     box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, 0.25);
+    background: none;
 }
 
 .logo-navbar {
     width: 150px;
     float: left;
     padding: 25px;
+    background: none;
 }
 
 .ant-menu-horizontal > 
@@ -27,12 +28,12 @@
 .ant-menu-item-selected, 
 .ant-menu-horizontal > 
 .ant-menu-submenu-selected {
-    color: #7e6752;
-    border-bottom: 2px solid #7e6752;
+    color: #855a92;
+    border-bottom: 2px solid #855a92;
 }
 
 .ant-menu-horizontal > .ant-menu-item-selected > a {
-    color: #7e6752;
+    color: #855a92;
 }
 
 
@@ -57,7 +58,7 @@
 .menuCon .ant-menu-item a,
 .menuCon .ant-menu-submenu-title a {
     padding: 0px 15px;
-    color: #cdcccc !important;
+    color: #f7c9f3 !important;
 }
 .menuCon .ant-menu-item a:hover,
 .menuCon .ant-menu-submenu-title a:hover {

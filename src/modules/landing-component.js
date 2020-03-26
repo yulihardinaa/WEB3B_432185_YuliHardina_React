@@ -8,14 +8,14 @@ const { Content } = Layout; // membuat konstanta content yang berasal dari bawaa
 
 class LandingComponent extends Component{
     render(){
-        const image1 = require(`../assets/images/picture.svg`); //membuat variabel image 1 dimana isinya merupakan importan gambar yang ada dari folder images
+        const image1 = require(`../assets/images/Profile picture.png`); //membuat variabel image 1 dimana isinya merupakan importan gambar yang ada dari folder images
         const {initialData,showModal,handleOk,handleCancel} = this.props; {/* ini merupakan fungsi" yang sudah di definsiikan di landing-page.js 
         kemudian kita panggil di halaman landing-component.js ketika kita memamnggil komponent dari parent komponen, komponen yang dipanggil
         akan menjadi sebuah properti, kemudian kita dapat menggunakan properti itu dihalaman ini.
         */}
         return(
             <Layout className="landing-container">
-                <Navbar/>  {/* ini merupakan component navbar yang kita import dari folder layout yang ada di common*/}
+              {/* ini merupakan component navbar yang kita import dari folder layout yang ada di common*/}
                 <Content style={{ overflow: "hidden" }}> {/* ini merupakan component content yang sudah di define sebelumnya*/}
                     <Row className="section-container">
                         <Col lg={12} md={12} sm={12}>
@@ -45,14 +45,14 @@ class LandingComponent extends Component{
                                         />
                                     </div>
                                     <div className="description-container desc-medium">
-                                    See when I conquer the world
+                                    I love many pets like cat, dog, etc. Right now I am studying at Universita Gadjah Mada. My major is D3 Komputer dan Sistem Informasi. For more information please kindly contact me :)
                                     </div>
                                 </Col>
                                 <Col span={24}>
                                     <div className="button-section-1-container">                                
                                         <ButtonHome
                                             text="Show Me"
-                                            background="#7e6752"
+                                            background="#855a92"
                                             textColor="#fff"
                                             className='button-participate'
                                             onClick = {showModal}
@@ -60,8 +60,8 @@ class LandingComponent extends Component{
                                         <ButtonHome
                                             text="Another Information"
                                             background="white"
-                                            textColor="#7e6752"
-                                            border="1px solid #7e6752"
+                                            textColor="#855a92"
+                                            border="1px solid #855a92"
                                             marginLeft={16}
                                             className='button-participate'
                                         />
