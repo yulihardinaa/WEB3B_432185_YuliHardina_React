@@ -52,7 +52,7 @@ class Navbar extends Component {
         >
           <Menu.ItemGroup title="Team Working">
             <Menu.Item key="KMHD">KMHD UGM</Menu.Item>
-            <Menu.Item key="Himakomsi">Koperasi "Himakomsi"</Menu.Item>
+            <Menu.Item key="Himakomsi">Himakomsi</Menu.Item>
           </Menu.ItemGroup>
         </SubMenu>
       
