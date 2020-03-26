@@ -1,0 +1,119 @@
+{
+    "main": {
+      "name":"Yuli Hardina",
+      "occupation":"Student",
+      "description":"My life is full of dream even though I am not asleep. With that dream, I will make it come true,See When I Conquer the World",
+      "image":"Profile picture.jpg",
+      "bio":"My life is full of dream even though I am not asleep. With that dream, I will make it come true",
+      "contactmessage":"Here's my contact if you are interested",
+      "email": "ni.y.h@mail.ugm.ac.id",
+      "phone": "-",
+      "address":{
+        "street":"Tebongkang",
+        "city":"Ubud",
+        "state":"Bali,Indonesia",
+        "zip": "80571"
+      },
+      "website": "-",
+      "resumedownload":"-",
+      "social":[
+        {
+          "name":"facebook",
+          "url":"https://www.facebook.com/yuli.hardina",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"twitter",
+          "url":"http://twitter.com",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/ni-luh-yuli-hardina-pujastuti-19290b19a/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"http://instagram.com/yulihardinaa_",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/yulihardinaa",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"skype",
+          "url":"http://skype.com",
+          "className":"fa fa-skype"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+      "education":[
+        {
+          "school":"Universitas Gadjah Mada",
+          "degree":"OTW AMD",
+          "graduated":"April 2021",
+          "description":"I can code, I can edit photo,I can take a good picture, I can make an animation, I can design UI/UX, next still counting ."
+        }
+        
+      ],
+      "work":[
+        {
+          "company":"I want to work at Google",
+          "title":"Senior Project Manager",
+          "years":"March 2022 - 2027",
+          "description":"I am doing good."
+        },
+        {
+          "company":"SM Entertaiment",
+          "title":"Overpower Artist",
+          "years":"March 2020 - now",
+          "description":"I am doing really good job and I invest so many money in my company"
+        }
+      ],
+      "skills":[
+        {
+          "name":"Git",
+          "level":"60%"
+        },
+        {
+          "name":"Illustrator",
+          "level":"55%"
+        },
+        {
+          "name":"ReactJs",
+          "level":"50%"
+        },
+        {
+          "name":"CSS",
+          "level":"90%"
+        },
+        {
+          "name":"HTML5",
+          "level":"80%"
+        },
+        {
+          "name":"Android",
+          "level":"50%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Web KMHD UGM",
+          "category":"Website for UKM in UGM",
+          "image":"web-kmhd.png",
+          "url":"https://kmhd.ukm.ugm.ac.id/"
+        }
+  
+  
+      ]
+    }
+    
+    }
+  
+  
