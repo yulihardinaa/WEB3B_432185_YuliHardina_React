@@ -2,7 +2,7 @@
   "name": "dina-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/yulihardinaa/WEB3B_432185_YuliHardina_React",
+  "homepage": "https://yulihardinaa.github.io/WEB3B_432185_YuliHardina_React",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
