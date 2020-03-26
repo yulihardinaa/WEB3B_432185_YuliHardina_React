@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/css/main.7e344b73.chunk.css",
-    "main.js": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/js/main.57103bad.chunk.js",
-    "main.js.map": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/js/main.57103bad.chunk.js.map",
-    "runtime-main.js": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/js/runtime-main.f7c91212.js",
-    "runtime-main.js.map": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/js/runtime-main.f7c91212.js.map",
-    "static/css/2.1bd2ab2f.chunk.css": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.11a662f6.chunk.js": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/js/2.11a662f6.chunk.js",
-    "static/js/2.11a662f6.chunk.js.map": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/js/2.11a662f6.chunk.js.map",
-    "index.html": "/yulihardinaa/WEB3B_432185_YuliHardina_React/index.html",
-    "precache-manifest.ace4e5cc19e2385d2443b2904f64fff5.js": "/yulihardinaa/WEB3B_432185_YuliHardina_React/precache-manifest.ace4e5cc19e2385d2443b2904f64fff5.js",
-    "service-worker.js": "/yulihardinaa/WEB3B_432185_YuliHardina_React/service-worker.js",
-    "static/css/2.1bd2ab2f.chunk.css.map": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/css/2.1bd2ab2f.chunk.css.map",
-    "static/css/main.7e344b73.chunk.css.map": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/css/main.7e344b73.chunk.css.map",
-    "static/js/2.11a662f6.chunk.js.LICENSE.txt": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/js/2.11a662f6.chunk.js.LICENSE.txt",
-    "static/media/Profile picture.png": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/media/Profile picture.7d7e97de.png",
-    "static/media/font-awesome.min.css": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/media/fontawesome-webfont.dcb26c72.ttf",
-    "static/media/layout.css": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/media/overlay.1740aa28.jpg",
-    "static/media/web-kmhd.png": "/yulihardinaa/WEB3B_432185_YuliHardina_React/static/media/web-kmhd.d07207f1.png"
+    "main.css": "/WEB3B_432185_YuliHardina_React/static/css/main.f97b3766.chunk.css",
+    "main.js": "/WEB3B_432185_YuliHardina_React/static/js/main.ae78d3fc.chunk.js",
+    "main.js.map": "/WEB3B_432185_YuliHardina_React/static/js/main.ae78d3fc.chunk.js.map",
+    "runtime-main.js": "/WEB3B_432185_YuliHardina_React/static/js/runtime-main.c9ae6070.js",
+    "runtime-main.js.map": "/WEB3B_432185_YuliHardina_React/static/js/runtime-main.c9ae6070.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/WEB3B_432185_YuliHardina_React/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.11a662f6.chunk.js": "/WEB3B_432185_YuliHardina_React/static/js/2.11a662f6.chunk.js",
+    "static/js/2.11a662f6.chunk.js.map": "/WEB3B_432185_YuliHardina_React/static/js/2.11a662f6.chunk.js.map",
+    "index.html": "/WEB3B_432185_YuliHardina_React/index.html",
+    "precache-manifest.276e7e08a21748ec8a9876fd213200a7.js": "/WEB3B_432185_YuliHardina_React/precache-manifest.276e7e08a21748ec8a9876fd213200a7.js",
+    "service-worker.js": "/WEB3B_432185_YuliHardina_React/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/WEB3B_432185_YuliHardina_React/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.f97b3766.chunk.css.map": "/WEB3B_432185_YuliHardina_React/static/css/main.f97b3766.chunk.css.map",
+    "static/js/2.11a662f6.chunk.js.LICENSE.txt": "/WEB3B_432185_YuliHardina_React/static/js/2.11a662f6.chunk.js.LICENSE.txt",
+    "static/media/Profile picture.png": "/WEB3B_432185_YuliHardina_React/static/media/Profile picture.7d7e97de.png",
+    "static/media/font-awesome.min.css": "/WEB3B_432185_YuliHardina_React/static/media/fontawesome-webfont.dcb26c72.ttf",
+    "static/media/layout.css": "/WEB3B_432185_YuliHardina_React/static/media/overlay.1740aa28.jpg",
+    "static/media/web-kmhd.png": "/WEB3B_432185_YuliHardina_React/static/media/web-kmhd.d07207f1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7c91212.js",
+    "static/js/runtime-main.c9ae6070.js",
     "static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.11a662f6.chunk.js",
-    "static/css/main.7e344b73.chunk.css",
-    "static/js/main.57103bad.chunk.js"
+    "static/css/main.f97b3766.chunk.css",
+    "static/js/main.ae78d3fc.chunk.js"
   ]
 }
